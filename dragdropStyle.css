@@ -1,0 +1,27 @@
+.fill{
+    background-image: url('https://www.w3schools.com/html/img_w3slogo.gif');
+    position: relative;
+    height: 30px;
+    width: 88px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+.empty{
+    display: inline-block;
+    height: 35px;
+    width: 100px;
+    margin: 10px;
+    border: 1px black solid;
+    background-color: white;
+}
+.hold{
+    border: solid white 4px;
+}
+.hovered{
+    background: white;
+    border-style: dashed;
+}
+.invisible{
+    display: none;
+}
